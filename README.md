@@ -18,4 +18,5 @@ Projekat je fokusiran na dinamičku interakciju sa korisnikom, efikasno upravlja
 * `Server:` Apache
 ---
 *Potpuna dokumentacija je dostupna u pdf fajlu.*
+
 *Ovaj projekat služi kao demonstracija rada sa native PHP tehnologijom i asinhronim procesima u web okruženju.*
